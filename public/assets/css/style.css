@@ -1,0 +1,30 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+p,
+h2,
+img {
+  text-align: center;
+  align-items: center;
+}
+.display-5 {
+  color: red;
+  font-size: 300%;
+}
