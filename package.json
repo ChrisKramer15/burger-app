@@ -1,0 +1,26 @@
+{
+  "name": "burger-app",
+  "version": "1.0.0",
+  "description": "![Languages badge](https://img.shields.io/github/languages/count/ChrisKramer15/burger-application)",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisKramer15/burger-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisKramer15/burger-app/issues"
+  },
+  "homepage": "https://github.com/ChrisKramer15/burger-app#readme"
+}
